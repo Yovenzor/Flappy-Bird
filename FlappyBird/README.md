@@ -41,13 +41,9 @@ Notable forks
 - [FlappyBird OpenFrameworks Port](https://github.com/TheLogicMaster/ofFlappyBird)
 - [FlappyBird On Quantum Computing](https://github.com/WingCode/QuFlapPyBird)
 
-Made something awesome from FlapPyBird? Add it to the list :)
+Made something awesome from FlappyBird? Add it to the list :)
 
 
-Demo
-----------
-
-https://user-images.githubusercontent.com/2307626/130682424-9254b32d-efe0-406e-a6ea-3fb625a2df5e.mp4
 
 
 
